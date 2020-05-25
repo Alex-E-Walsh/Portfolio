@@ -1,0 +1,1063 @@
+
+
+.settingsstart {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 667px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.settingsstart .set1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 81px;
+  height              : 233px;
+  width               : 397px;
+  position            : absolute;
+  margin              : 0;
+  left                : -12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .bounds {
+  background-color    : rgba(238, 238, 238, 1.0);
+  top                 : 0px;
+  height              : 76px;
+  width               : 394px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .display1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 196px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 23.0px;
+}
+.settingsstart .set1 .graphicsdivider375px {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 75px;
+  height              : 1px;
+  width               : 366px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .graphicsdivider375px .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 366px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .graphicsdivider375px .rectangle1 {
+  background-color    : rgba(188, 187, 193, 1.0);
+  top                 : 1px;
+  height              : 1px;
+  width               : 366px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .chore1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : 46px;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .chore1 .barstoolbarstatus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 396px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .chore1 .barstoolbarstatus .bar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .chore2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 98px;
+  height              : 46px;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .chore2 .barstoolbarstatus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 396px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .chore2 .barstoolbarstatus .bar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .chore3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 142px;
+  height              : 46px;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .chore3 .barstoolbarstatus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 396px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .chore3 .barstoolbarstatus .bar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .chore3copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 187px;
+  height              : 46px;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .chore3copy .barstoolbarstatus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 396px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .chore3copy .barstoolbarstatus .bar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .set1 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 222px;
+  width               : 395px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .rotatingscheduele {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 190px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 23.0px;
+}
+.settingsstart .leavegroup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 235px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 23.0px;
+}
+.settingsstart .display {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 280px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 23.0px;
+}
+.settingsstart .notifications {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 103px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 13.0px;
+}
+.settingsstart .notifications .span1 {
+  line-height         : 23.0px;
+}
+.settingsstart .notifications .span2 {
+  font-size           : 13.0px;
+  line-height         : 16.0px;
+}
+.settingsstart .uibarstopbarslightlargetopbarwithsearch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .uibarstopbarslightlargetopbarwithsearch .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .uibarstopbarslightlargetopbarwithsearch .choresettings {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 299px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 34.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.41px;
+  line-height         : 41.0px;
+}
+.settingsstart .uibarstopbarslightlargetopbarwithsearch .right {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 35px;
+  width               : 76px;
+  position            : absolute;
+  margin              : 0;
+  left                : 299px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .uibarstopbarslightlargetopbarwithsearch .right .bounds {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 76px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 592px;
+  height              : 74px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .bar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 74px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .settings {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 62px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 277px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .settings .settings1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(73, 143, 225, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.12px;
+  line-height         : 23.0px;
+}
+.settingsstart .bottomtabs .settings .settingsicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 39px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .misc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 67px;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .misc .misc1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(142, 142, 147, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.12px;
+  line-height         : 10.0px;
+}
+.settingsstart .bottomtabs .misc .misc1 .span1 {
+  line-height         : 23.0px;
+}
+.settingsstart .bottomtabs .misc .misc1 .span2 {
+  font-size           : 10.0px;
+  line-height         : 12.0px;
+}
+.settingsstart .bottomtabs .misc .miscicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .misc .miscicon .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 34px;
+  box-sizing          : border-box;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .misc .miscicon .rectangle1 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 4px;
+  height              : 4px;
+  box-sizing          : border-box;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .misc .miscicon .rectangle2 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 13px;
+  height              : 4px;
+  box-sizing          : border-box;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .misc .miscicon .rectangle3 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 8px;
+  height              : 4px;
+  box-sizing          : border-box;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .homesym {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 58px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .homesym .rectangle {
+  background-color    : rgba(123, 126, 130, 1.0);
+  top                 : 14px;
+  height              : 17px;
+  box-sizing          : border-box;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .homesym .triangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 15px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .homesym .homeicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : 23px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .homesym .homeicon .home {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(142, 142, 142, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.12px;
+  line-height         : 23.0px;
+}
+.settingsstart .bottomtabs .iphonexhomeindicatorhomeindicatoronlight {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 44px;
+  height              : 30px;
+  width               : 335px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .iphonexhomeindicatorhomeindicatoronlight .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 335px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .bottomtabs .iphonexhomeindicatorhomeindicatoronlight .rectangle24 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 16px;
+  height              : 5px;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  border-radius       : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .uibarsstatusbarsblackbase {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .uibarsstatusbarsblackbase .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .uibarsstatusbarsblackbase .gs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 14.0px;
+}
+.settingsstart .uibarsstatusbarsblackbase .battery {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 15px;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 310px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .uibarsstatusbarsblackbase .battery .a100 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : right;
+  line-height         : 14.0px;
+}
+.settingsstart .uibarsstatusbarsblackbase .battery .battery1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 11px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .uibarsstatusbarsblackbase .battery .battery1 .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 11px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.settingsstart .uibarsstatusbarsblackbase .battery .battery1 .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 4px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .uibarsstatusbarsblackbase .battery .battery1 .rectangle1 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 2px;
+  height              : 7px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  border-radius       : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .uibarsstatusbarsblackbase .time {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(3, 3, 3, 1.0);
+  text-align          : center;
+  line-height         : 14.0px;
+}
+.settingsstart .uibarsstatusbarsblackbase .wifi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 9px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 46px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .uibarsstatusbarsblackbase .mobilesignal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 10px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .hotspot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 592px;
+  height              : 71px;
+  width               : 97px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .hotspot1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 586px;
+  height              : 77px;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 161px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .profilepicture {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 145px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "HelveticaNeue-Medium", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 23.0px;
+}
+.settingsstart .graphicscustomiconsimessagearrow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 108px;
+  height              : 14px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  transform           : rotate(90deg);
+  opacity             : 1.0;
+}
+.settingsstart .graphicscustomiconsimessagearrow .arrow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 14px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .graphicscustomiconsimessagearrowcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 238px;
+  height              : 14px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  transform           : rotate(90deg);
+  opacity             : 1.0;
+}
+.settingsstart .graphicscustomiconsimessagearrowcopy .arrow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 14px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .graphicscustomiconsimessagearrowcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 286px;
+  height              : 14px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  transform           : rotate(90deg);
+  opacity             : 1.0;
+}
+.settingsstart .graphicscustomiconsimessagearrowcopy4 .arrow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 14px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .graphicscustomiconsimessagearrowcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 196px;
+  height              : 14px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  transform           : rotate(90deg);
+  opacity             : 1.0;
+}
+.settingsstart .graphicscustomiconsimessagearrowcopy2 .arrow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 14px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.settingsstart .graphicscustomiconsimessagearrowcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 14px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  transform           : rotate(90deg);
+  opacity             : 1.0;
+}
+.settingsstart .graphicscustomiconsimessagearrowcopy3 .arrow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 14px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

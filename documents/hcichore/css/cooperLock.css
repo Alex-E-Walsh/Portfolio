@@ -1,0 +1,287 @@
+
+
+.cooperlock {
+  width               : 100%;
+  min-width           : 376px;
+  height              : 100vh;
+  min-height          : 667px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.cooperlock .lockscreen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 667px;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.cooperlock .extensionsnotificationsimessage2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : 82px;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  border-radius       : 13px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.cooperlock .extensionsnotificationsimessage2 .base {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 82px;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.cooperlock .extensionsnotificationsimessage2 .body {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : auto;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.24px;
+  line-height         : 18.0px;
+}
+.cooperlock .extensionsnotificationsimessage2 .header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 24px;
+  width               : 337px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.cooperlock .extensionsnotificationsimessage2 .header .timestamp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 312px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(138, 138, 143, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.cooperlock .extensionsnotificationsimessage2 .header .appname {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "HelveticaNeue-Bold", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(138, 138, 143, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 18.0px;
+}
+.cooperlock .extensionsnotificationsimessage2 .header .graphicsappiconsmessages {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.cooperlock .extensionsnotificationsimessage2 .header .graphicsappiconsmessages .messagesicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.cooperlock .extensionsnotificationsimessage2 .header .graphicsappiconsmessages .messagesicon .messagesicon1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.cooperlock .hotspot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 667px;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
