@@ -2689,7 +2689,7 @@ text-align: left;
 
 .contactLabel{
 	position: absolute;
-	color:white;
+	color:#DEDEDE;
 	padding-left: .5em;
 	padding-bottom:1em;
 	border-bottom: none;
@@ -2698,7 +2698,7 @@ text-align: left;
 	.branding{
 		font-family: 'Font Awesome 5 Brands';
 		border-bottom: none;
-		color:white;
+		color:#DEDEDE;
 		width:25px;
 		font-size:40px;
 		}
@@ -2710,7 +2710,7 @@ text-align: left;
 		#copyright{
 			position:relative;
 			list-style: none;
-			color:white;
+			color:#DEDEDE;
 			top:30px;
 			z-index: 10000;
 
